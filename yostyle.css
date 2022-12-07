@@ -1,0 +1,74 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 0;
+    margin: 0;
+} 
+.copy{
+  display:flex;
+  flex-wrap: wrap;
+  margin: 10px;
+  padding: 10;
+  background: rgb(238, 241, 242);
+
+}
+.wid{
+  width: 200px ;
+  height: 200px;
+
+}
+.wid a{
+  text-decoration: none ;
+  color:rgb(71, 70, 69) ;
+}
+.social{
+  display: flex;
+  margin: 5px;
+  padding: 5px;
+}
+.social a{
+
+  margin: 4px;
+  padding: 4px;
+}
+.temp{
+  display: flex;
+  height: 500px;
+  width: auto;
+}
+.imglogo{
+  width: 450px;
+  height: 600px;
+}
+
+.quoit :nth-child(even){
+  padding: 10px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+  overflow: hidden; 
+ }
+.quoit{
+  position: relative;
+  top: 100px;
+  color:rgb(18, 166, 166) ;
+
+}
+
+.quoit span{
+  font-weight: 900;
+}
+.bar{
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 9999;
+}
+body{
+  color: rgb(75, 75, 76);  
+}
+h3{
+  color: rgb(22, 4, 43);
+}
+
+
