@@ -2,6 +2,7 @@
 This is a web based health related application developed to provide yoga related services and to clarify doughts of users in india.
 ### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, AICTE, Future Skills Prime, Quess, Github and EY.
 **Project Link** -https://mango-sand-0270a0900.2.azurestaticapps.net/
+
 **project demo video link** -https://youtu.be/FloD4-hHng4
 
 ## Azure technologies used for Project
